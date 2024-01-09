@@ -3,6 +3,4 @@
 
 2. Entity Relationship Types:
    
-   one   to  one
-   one   to  many
-   many  to  many
+   one   to  one                                                                                                           one   to  many                                                                                                          many  to  many
